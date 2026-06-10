@@ -60,7 +60,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tarunjoshi03&show_icons=true&theme=dark&bg_color=0d1117&text_color=40cfcd&border_color=444&hide_border=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunjoshi03&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165"/>
 </div>
 
 ---
