@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Tarun+Joshi;Petroleum+Engineer+%7C+A%26D+Analyst;Reservoir+Economics+%7C+Upstream+Finance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Tarun+Joshi;Petroleum+Engineer+%7C+A%26D+Analyst;Reservoir+Economics+%7C+Upstream+Finance" alt="Typing SVG" />
 </div>
 
 <div align="center">
