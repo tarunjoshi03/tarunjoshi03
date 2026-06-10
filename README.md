@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tarun+Joshi;Petroleum+Engineer+%7C+A%26D+Analyst;Reservoir+Economics+%7C+Upstream+Finance" alt="Typing SVG" />
+  <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="coding gif" width="400"/>
+  <img src="https://github.com/kumarjeetray/kumarjeetray/raw/main/life_balance.gif" alt="life balance" width="300"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tarun+Joshi;Petroleum+Engineer+%7C+A%26D+Analyst;Reservoir+Economics+%26+Upstream+Finance" alt="Typing SVG" />
 </div>
 
 <div align="center">
