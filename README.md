@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tarun+Joshi;Petroleum+Engineer+%7C+Geoscientist;Seismic+%7C+Petrophysics+%7C+A%26D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tarun+Joshi;Petroleum+Engineer+%7C+A%26D+Analyst;Reservoir+Economics+%7C+Upstream+Finance" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,24 +10,25 @@
 
 ## 🛢️ About Me
 
-- 🎓 **M.Eng. Petroleum Engineering — Texas A&M University (2025)**
+- 🎓 **M.Eng. Petroleum Engineering - Texas A&M University (2025)**
 - 📍 Based in **Houston, TX**
-- 🔭 Building Python workflows for **seismic interpretation, petrophysics, and upstream A&D**
-- 🌊 Working with real SEGY data, LAS files, and SEC filings — not toy datasets
-- 💼 Background in **reservoir engineering, seismic imaging, and buy-side upstream M&A**
-- 🤝 Open to roles in **seismic imaging, reservoir engineering, and energy finance**
+- 🔭 Building Python workflows for **reserves analysis, A&D economics, and upstream deal modeling**
+- 💼 Background in **buy-side upstream M&A (Permian, Eagle Ford, Haynesville), reservoir engineering, and field operations**
+- 📉 Fluent in **decline curve analysis, DCF modeling, type curves, IRR sensitivity, and $/acre metrics**
+- 🌊 Bonus: Can work with real **SEGY seismic data and LAS wireline logs** - not just spreadsheets
+- 🤝 Open to roles in **A&D, reserves engineering, equity research, and upstream finance**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/tarunjoshi03)**
 
 ---
 
-## 🔬 Featured Projects
+## 💼 Featured Projects
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [🌊 Atlantic Seismic Terminations](https://github.com/tarunjoshi03/atlantic-seismic-terminations) | Automated horizon tracking & termination detection on USGS 2D marine seismic — Mitchum, Vail & Sangree (1977) | `segyio` `scipy` `numpy` |
-| [🗺️ Stratton Field 3D Seismic](https://github.com/tarunjoshi03/stratton-seismic-analysis) | 3D seismic interpretation + well-to-seismic tie on South Texas Frio Formation | `segyio` `matplotlib` `pandas` |
-| [⚡ Kansas Well Petrophysics](https://github.com/tarunjoshi03/kansas-well-petrophysics) | Full petrophysical workflow: Vshale → PHIE → Sw → Net Pay on real KGS well | `lasio` `pandas` `numpy` |
-| [💰 PR/APA A&D Deal Teardown](https://github.com/tarunjoshi03/pr-apa-deal-teardown) | $608MM acquisition analytics — Arps decline curves, IRR sensitivity, DCF from SEC filings | `scipy` `pandas` `matplotlib` |
+| [💰 PR/APA A&D Deal Teardown](https://github.com/tarunjoshi03/pr-apa-deal-teardown) | Full acquisition analytics on $608MM Northern Delaware Basin bolt-on - Arps decline curves, IRR sensitivity heatmap, 20-yr DCF sourced from SEC 10-K filings | `scipy` `pandas` `matplotlib` |
+| [⚡ Kansas Well Petrophysics](https://github.com/tarunjoshi03/kansas-well-petrophysics) | Petrophysical formation evaluation on real KGS well - Vshale, PHIE, Sw via Archie, automated net pay flagging | `lasio` `pandas` `numpy` |
+| [🗺️ Stratton Field 3D Seismic](https://github.com/tarunjoshi03/stratton-seismic-analysis) | 3D seismic interpretation + well-to-seismic tie on South Texas Frio Formation gas reservoir | `segyio` `matplotlib` `pandas` |
+| [🌊 Atlantic Seismic Terminations](https://github.com/tarunjoshi03/atlantic-seismic-terminations) | Automated horizon tracking & termination detection on USGS 2D marine seismic - Mitchum, Vail & Sangree (1977) | `segyio` `scipy` `numpy` |
 
 ---
 
@@ -43,7 +44,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
-**Domain Tools:** `lasio` `segyio` `scipy` `matplotlib` `PHDwin` `ComboCurve` `Enverus` `Petrel` `CMG` `Power BI`
+**Engineering & Economics:** `PHDwin` `ComboCurve` `Enverus` `ARIES` `CMG` `Petrel` `ResFrac`  
+**Python Libraries:** `lasio` `segyio` `scipy` `matplotlib` `pandas` `numpy`  
+**Finance & Reporting:** `Excel` `Power BI` `Spotfire` `Bloomberg`
 
 ---
 
@@ -63,7 +66,6 @@
 </div>
 
 ---
-
 <div align="center">
-  <i>"The subsurface doesn't lie — but it takes the right tools to make it speak."</i>
+  <i>"Every barrel in the ground is a finance problem waiting to be solved."</i>
 </div>
