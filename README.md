@@ -17,7 +17,7 @@
 ## 🛢️ About Me
 
 - 🎓 **M.Eng. Petroleum Engineering - Texas A&M University (2025)**
-- 📍 Based in **College Station, TX**
+- 📍 Based in **Houston, TX**
 - 🔭 Building Python workflows for **reserves analysis, A&D economics, and upstream deal modeling**
 - 💼 Background in **buy-side upstream M&A (Permian, Eagle Ford, Haynesville), reservoir engineering, and field operations**
 - 📉 Fluent in **decline curve analysis, DCF modeling, type curves, IRR sensitivity, and $/acre metrics**
