@@ -24,7 +24,10 @@
 - 🌊 Bonus: Can work with real **SEGY seismic data and LAS wireline logs** - not just spreadsheets
 - 🤝 Open to roles in **A&D, reserves engineering, equity research, and upstream finance**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/tarunjoshi03)**
-
+- 🏅 **$20,000 Non-Resident Competitive Scholarship** - merit award, Texas A&M University & State of Texas. Aug 2022
+- 🏅 **Patrick A. Graham '86 Fellowship** - competitive, alumni-endowed graduate award. Aug 2022
+- 🏅 **Graduate Program Fellowship** - Harold Vance Dept. of Petroleum Engineering, Texas A&M. Jan 2023
+- 🏅 **Global Aggie Medallion** - Petroleum Engineering Class of 2025, academic excellence. May 2025
 ---
 
 ## 💼 Featured Projects
