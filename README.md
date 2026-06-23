@@ -15,19 +15,22 @@
 ---
 
 ## 🛢️ About Me
-
 - 🎓 **M.Eng. Petroleum Engineering - Texas A&M University (2025)**
 - 📍 Based in **College Station, TX**
-- 🔭 Building Python workflows for **reserves analysis, A&D economics, and upstream deal modeling**
-- 💼 Background in **buy-side upstream M&A (Permian, Eagle Ford, Haynesville), reservoir engineering, and field operations**
-- 📉 Fluent in **decline curve analysis, DCF modeling, type curves, IRR sensitivity, and $/acre metrics**
-- 🌊 Bonus: Can work with real **SEGY seismic data and LAS wireline logs** - not just spreadsheets
-- 🤝 Open to roles in **A&D, reserves engineering, equity research, and upstream finance**
+- 🔭 I turn 10-Ks and decline curves into **A&D economics and deal models** - in Python, not just Excel
+- 💼 Buy-side upstream M&A across the **Permian, Eagle Ford & Haynesville** - real deals, real type curves
+- 🌊 Comfortable with **SEGY seismic and LAS logs** - I speak subsurface, not just spreadsheets
+- 🤖 I taught a model to read **fracture pressure data** better than I can. It's not close.
+- ☕ Reads 10-Ks for fun. Footnotes included.
+- 🤝 Open to roles in **A&D, reserves engineering, equity research & upstream finance**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/tarunjoshi03)**
-- 🏅 **$20K Non-Resident Competitive Scholarship** - Texas A&M and State of Texas paid me to move here. Aug 2022
-- 🏅 **Patrick A. Graham '86 Fellowship** - alumni-funded, highly competitive, no pressure. Aug 2022
-- 🏅 **Graduate Program Fellowship** - my own department vouched for me. Jan 2023
-- 🏅 **Global Aggie Medallion** - Petroleum Eng. Class of 2025, for excellence & not getting lost abroad. May 2025
+
+### 🏅 Honors
+- **$20,000 Non-Resident Competitive Scholarship** - Texas A&M & State of Texas. Aug 2022
+- **Patrick A. Graham '86 Fellowship** - alumni-endowed, highly competitive. Aug 2022
+- **Graduate Program Fellowship** - Harold Vance Dept. of Petroleum Engineering. Jan 2023
+- **Global Aggie Medallion** - Petroleum Engineering Class of 2025. May 2025
+
 ---
 
 ## 💼 Featured Projects
@@ -47,15 +50,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
-**Engineering & Economics:** `PHDwin` `ComboCurve` `Enverus` `ARIES` `CMG` `Petrel` `ResFrac`  
-**Python Libraries:** `lasio` `segyio` `scipy` `matplotlib` `pandas` `numpy`  
-**Finance & Reporting:** `Excel` `Power BI` `Spotfire` `Bloomberg`
+**Engineering & Economics:** `PHDwin` `ComboCurve` `Enverus` `ARIES` `Val Nav` `CMG` `Petrel` `ResFrac` `Kappa Saphir`  
+**Python Libraries:** `lasio` `segyio` `scipy` `numpy` `pandas` `matplotlib` `seaborn` `scikit-learn` `plotly`  
+**Finance & Reporting:** `Excel` `Power BI` `Spotfire` `Bloomberg` `FactSet` `PitchBook`
 
 ---
 
