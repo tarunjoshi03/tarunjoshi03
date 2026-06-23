@@ -26,10 +26,10 @@
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/tarunjoshi03)**
 
 ### 🏅 Honors
-- **$20,000 Non-Resident Competitive Scholarship** - Texas A&M & State of Texas. Aug 2022
-- **Patrick A. Graham '86 Fellowship** - alumni-endowed, highly competitive. Aug 2022
-- **Graduate Program Fellowship** - Harold Vance Dept. of Petroleum Engineering. Jan 2023
-- **Global Aggie Medallion** - Petroleum Engineering Class of 2025. May 2025
+- 🏅 **$20K Non-Resident Competitive Scholarship** - Texas A&M and state of Texas paid me to move here. Aug 2022
+- 🏅 **Patrick A. Graham '86 Fellowship** - alumni-funded, highly competitive, no pressure! Aug 2022
+- 🏅 **Graduate Program Fellowship** - my own department vouched for me. Jan 2023
+- 🏅 **Global Aggie Medallion** - Petroleum Eng. Class of 2025, for excellence & not getting lost abroad. May 2025
 
 ---
 
