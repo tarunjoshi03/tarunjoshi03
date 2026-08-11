@@ -16,7 +16,7 @@
 
 ## 🛢️ About Me
 - 🎓 **M.Eng. Petroleum Engineering - Texas A&M University (2025)**
-- 📍 Based in **College Station, TX**
+- 📍 Based in **Houston, TX**
 - 🔭 I turn 10-Ks and decline curves into **A&D economics and deal models** - in Python, not just Excel
 - 💼 Buy-side upstream M&A across the **Permian, Eagle Ford & Haynesville** - real deals, real type curves
 - 🌊 Comfortable with **SEGY seismic and LAS logs** - I speak subsurface, not just spreadsheets
